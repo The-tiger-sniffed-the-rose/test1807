@@ -1,0 +1,41 @@
+
+	.login{
+		width:100%;
+		background-color: #f6f6f6;
+		box-sizing: border-box;
+    	padding: 30px 31px 0px 31px;
+		.bottomrule{
+			width:100%;
+			height: 8px;
+			border:1px solid #ddd;
+			border-top: none;
+			margin-top: -8px;
+			margin-bottom: 20px;;
+		}
+		.loginMsg{
+			width:100%;
+			box-sizing: border-box;
+			padding-left: 15px;
+		}
+		.loginBtn{
+			width:100px;
+			height: 30px;
+			text-align: center;
+			line-height: 30px;
+			margin: 0 auto;
+			border-radius: 10px;
+			color: #fff;
+			background: #F78360;
+			border:none;
+			display: block;
+		}
+	}
+input{
+    width:100%;
+    border:none;
+    outline: none;
+    height: 30px;
+    background-color: #f6f6f6;
+    line-height: 10px;
+    font-size: 16px;
+	}
